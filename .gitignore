@@ -2,3 +2,5 @@ node_modules/*
 converage/*
 .techtrain/config.toml
 .DS_Store
+test-results/
+.last-run.json
