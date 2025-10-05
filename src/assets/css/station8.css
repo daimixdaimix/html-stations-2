@@ -25,7 +25,7 @@
     color: white;
 }
 #container #item1 {
-    grid-column: 1;
+    grid-column: 1 / 2;
     grid-row: 2 / 5;
     text-align: center;
     font-size: 2em;
@@ -34,8 +34,8 @@
     color: white
 }
 #container #item2 {
-    grid-column: 2;
-    grid-row: 2;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
     text-align: center;
     font-size: 2em;
     font-weight: bold;
@@ -43,8 +43,8 @@
     color: white;
 }
 #container #item3 {
-    grid-column: 2;
-    grid-row: 3;
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
     text-align: center;
     font-size: 2em;
     font-weight: bold;
@@ -52,8 +52,8 @@
     color: white;
 }
 #container #item4 {
-    grid-column: 2;
-    grid-row: 4;
+    grid-column: 2 / 3;
+    grid-row: 4 / 5;
     text-align: center;
     font-size: 2em;
     font-weight: bold;
