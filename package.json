@@ -12,5 +12,8 @@
   },
   "scripts": {
     "serve": "lite-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
